@@ -7,7 +7,7 @@ This Repo Contains my all Codes of **GRAPH Data Structures** (Problems + Concept
 
 <br>
 
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
 #### <img src="https://camo.githubusercontent.com/c57d7fbad8b7164ce82af4912b1cecce868f2479a5e42c310fbe6632630c2542/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466e3438427963514648496d4a6a734e382f67697068792e676966" alt="GFG icon" height="45px" width="45px"> TO LEARN : [```PRACTICE THEM FROM GFG```](https://practice.geeksforgeeks.org/explore/?category%5B%5D=Graph&page=1&category%5B%5D=Graph)
 
