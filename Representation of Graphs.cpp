@@ -1,4 +1,7 @@
 /* ========================= GRAPH REPRESENTATION FUNCTIONS ============================*/
+#include <bits/stdc++.h>
+using namespace std;
+
 //1.To Make the Adjacency Matrix.
 vector<vector<int>> InputAdjacencyMatrix (int vert, int edges) {
 	vector<vector<int>> adj(vert + 1, vector<int> (vert + 1, 0));
@@ -36,7 +39,7 @@ void printAdjList(vector<int> adj[], int vert) {
 	cout << endl;
 }
 
-//How does it look like when your print your Adjacency List.
+/*//How does it look like when your print your Adjacency List.
 For the Graphs :
 1 --------------   2                        Result Will Be :
 | \                  \                      [ (0) ->  ]
@@ -45,3 +48,4 @@ For the Graphs :
 |              \        /                   [ (3) -> 2, 1, 4, 5, ]
 |                 \   /                     [ (4) -> 2, 3, ]
 5 --------------    3                       [ (5) -> 1, 3, ]
+*/
