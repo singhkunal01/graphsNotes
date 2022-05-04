@@ -24,9 +24,9 @@ This Repo Contains my all Codes of **GRAPH Data Structures** (Problems + Concept
 
 <div align="center" ><h3> SNAPSHOTS OF REPRESENTATION OF GRAPHS </h3> </div>
 
-![Adjacency Matrix](Graphs1.jpg) <br>
+![Adjacency Matrix](Graphs1.png) <br>
 
-![Adjacency List](Graphs2.jpg) <br>
+![Adjacency List](Graphs2.png) <br>
 
-![Printing Adjacency List](Graphs3.jpg)
+![Printing Adjacency List](Graphs3.png)
 
