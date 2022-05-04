@@ -1,4 +1,7 @@
 //================== RECURSIVE(DFS) TRAVERSAL OF A GRAPH ==================
+#include <bits/stdc++.h>
+using namespace std;
+
 void dfs(int node, vector<bool> &vis, vector<int> adj[], vector<int> &res) {
 	res.push_back(node);//first insert the node in the resultant vector
 	vis[node] = true;//and mark that node as a visited node
@@ -20,6 +23,11 @@ vector<int> dfsOfAGraph(int vert, vector<int> adj[]) {
 }
 
 
-// Note: To check the trial please check the BFS TRAVERSAL where i have given a solve() function use it to direct check 
+// Note: To check the trial please check the BFS TRAVERSAL where i have given a solve() function use it to direct check
 // TC: O(N+E)
 // SC: O(N+E)+O(N)+O(N)
+
+
+//call the function in ur main program by inputting number of vertices , edges and taking adjacency list as Input Format.
+
+© singhkunal01

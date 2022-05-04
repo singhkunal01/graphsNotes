@@ -32,3 +32,7 @@ bool checkForCycleInAGrapBFS(int vert, vector<int> adj[]) {
 	}
 	return false;
 }
+
+//call the function in ur main program by inputting number of vertices , edges and taking adjacency list as Input Format.
+
+© singhkunal01

@@ -35,3 +35,7 @@ bool isBipartite(vector<int> adj[], int n) {
 }
 
 //and to check in the form of 2-D matrix instead of adjacency list check the main question on leetcode
+
+//call the function in ur main program by inputting number of vertices , edges and taking adjacency list as Input Format.
+
+© singhkunal01

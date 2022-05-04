@@ -7,7 +7,7 @@ bool bipartiteDFS(int node, vector<int> adj[], vector<int> &color) {
 	for (auto &all : adj[node]) {
 		if (color[all] == -1) {
 			color[all] = 1 - color[node];//mark with opposite color
-			if (!bipartiteDFS(i, adj, color)) return false;
+			if (!bipartiteDFS(all, adj, color)) return false;
 		}
 		//else if check whether the adjacents of current node having same color or not if not then return false'
 		else if (color[all] == color[node])
@@ -30,3 +30,8 @@ bool isBipartite(vector<int> adj[], int n) {
 	return true;
 
 }
+
+
+//call the function in ur main program by inputting number of vertices , edges and taking adjacency list as Input Format.
+
+© singhkunal01

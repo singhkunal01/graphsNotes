@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 vector<int> bfsOfGraph(int vert, vector<int> adj[]) {
 	vector<int> res;
 	vector<bool> vis(vert + 1, false);
@@ -25,14 +28,6 @@ vector<int> bfsOfGraph(int vert, vector<int> adj[]) {
 	return res;
 }
 
+//call the function in ur main program by inputting number of vertices , edges and taking adjacency list as Input Format.
 
-//to use you can also use this solve function and simply call it in your main function.
-void solve() {
-	int vert, edges;
-	cin >> vert >> edges;
-	vector<int> adjList[vert + 1];
-	InputAdjacencyList(vert, edges, adjList);//this function is called to make the adjacency list refer to CODE 1. REPRESENTATION IN GRAPHS ,there you get this code.
-	vector<int> res = bfsOfGraph(vert, adjList);
-	for(auto x:res) cout<<x<<" ";
-
-}
+© singhkunal01

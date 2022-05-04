@@ -25,3 +25,10 @@ bool checkCycleDirected(vector<int> adj[], int vert) {
 	return false;
 
 }
+
+// TC: O(N+E)
+// SC: O(N+E)+O(N)+O(N)
+
+//call the function in ur main program by inputting number of vertices , edges and taking adjacency list as Input Format.
+
+© singhkunal01
