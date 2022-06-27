@@ -30,3 +30,19 @@ This Repo Contains my all Codes of **GRAPH Data Structures** (Problems + Concept
 
 ![Printing Adjacency List](Graphs3.png)
 
+
+# Graphs Problems
+
+| S.No. | Title |
+|---| ----- |
+|1|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|2|[BFS Traversal in Graph](https://github.com/singhkunal01/graphsNotes/blob/main/BFS%20Traversal%20in%20Graph.cpp)|
+|3|[DFS Traversal in Graph](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+<!-- |4|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|5|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|6|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|7|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|8|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|9|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|10|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|
+|11|[Representation of Graphs](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)|[Code](https://github.com/singhkunal01/graphsNotes/blob/main/Representation%20of%20Graphs.cpp)| -->
